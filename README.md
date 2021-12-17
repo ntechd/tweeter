@@ -2,7 +2,7 @@
 
 Tweeter is a simple, single-page Twitter clone.
 
-Built using HTML, CSS, JS, jQuery, AJAX, and Express.
+Built using HTML, CSS, JS, jQuery, and AJAX.
 
 ## Final Product
 
