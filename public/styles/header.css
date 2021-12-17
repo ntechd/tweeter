@@ -1,0 +1,28 @@
+.user-header {
+  height: 520px;
+  background-color: #8956cc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+	background-color: #a6d0e4;
+	background-image: url("https://www.transparenttextures.com/patterns/foggy-birds.png");
+
+  padding-top: 6em;
+  padding-bottom: 6em;
+  margin-bottom: 1em;
+  position: relative;
+}
+
+.user-header .user-name {
+  color: #ffffff;
+}
+
+@media only screen and (min-width: 1024px) {
+  .user-header {
+    height: 17em;
+    width: 500px;
+    max-width: 500px;
+    padding-top: 1.5em;
+    margin-left: 0em 1em;
+  }
+}
